@@ -1,0 +1,2 @@
+// Tempel konfigurasi Supabase dari dashboard proyekmu di sini.
+window.FINORA_CONFIG = { SUPABASE_URL: "https://vhgqumficxhzktyappny.supabase.co", SUPABASE_ANON_KEY: "sb_publishable_cZip2aXcfYOS8ey03qDigg_3_v9apUA" };
